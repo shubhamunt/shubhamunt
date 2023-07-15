@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubhamunt
-- 👀 I’m interested in Computational Chemistry including Python programming.
-- 🌱 I’m currently learning MD simualations and DFT calculations.
-- 📫 How to reach me shubham.chatterjee@utdallas.edu
+- 🌱  MD simulations, DFT calculations, QM/MM studies, Free Energy Methods, Python coding for Machine learning applications
+- 📫 How to reach me shubhamunt@gmail.com
 
 <!---
 shubhamunt/shubhamunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
